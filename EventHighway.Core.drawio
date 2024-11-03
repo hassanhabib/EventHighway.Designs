@@ -17,7 +17,7 @@
             <mxPoint x="-22" y="172" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8EI1_srN0An6A3IgLa9l-1" value="PUBLISHER" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8EI1_srN0An6A3IgLa9l-1" value="PUBLISHER" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="114" y="504" width="295" height="215" as="geometry" />
         </mxCell>
         <mxCell id="8EI1_srN0An6A3IgLa9l-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="8EI1_srN0An6A3IgLa9l-2" target="8EI1_srN0An6A3IgLa9l-4">
@@ -28,13 +28,13 @@
             <mxPoint x="26" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8EI1_srN0An6A3IgLa9l-2" value="EVENT HIGHWAY" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8EI1_srN0An6A3IgLa9l-2" value="EVENT HIGHWAY" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="739" y="630" width="264" height="264" as="geometry" />
         </mxCell>
-        <mxCell id="8EI1_srN0An6A3IgLa9l-4" value="STORAGE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8EI1_srN0An6A3IgLa9l-4" value="STORAGE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1260" y="660" width="183" height="204" as="geometry" />
         </mxCell>
-        <mxCell id="8EI1_srN0An6A3IgLa9l-6" value="LISTENER" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8EI1_srN0An6A3IgLa9l-6" value="LISTENER" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="114" y="789" width="295" height="215" as="geometry" />
         </mxCell>
         <mxCell id="8EI1_srN0An6A3IgLa9l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="8EI1_srN0An6A3IgLa9l-2" target="8EI1_srN0An6A3IgLa9l-6">
