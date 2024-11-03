@@ -122,7 +122,7 @@
         <mxCell id="ia0nuqsjzbO07R-sSjLW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-5" target="ia0nuqsjzbO07R-sSjLW-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-5" value="Event Publishing&lt;div&gt;Coordination Service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="ia0nuqsjzbO07R-sSjLW-5" value="Event&lt;br&gt;Coordination Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-240" y="327.5" width="196" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-7" target="ia0nuqsjzbO07R-sSjLW-23">
@@ -135,43 +135,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-9" value="Event Listener Registration&lt;br&gt;Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="383" y="218" width="196" height="71" as="geometry" />
+          <mxGeometry x="386" y="376.25" width="196" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-11" target="ia0nuqsjzbO07R-sSjLW-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-11" value="Listener Event&lt;br&gt;Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="383" y="548" width="196" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-13" target="ia0nuqsjzbO07R-sSjLW-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-13" value="Event&lt;br&gt;Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="383" y="442" width="196" height="71" as="geometry" />
+          <mxGeometry x="385" y="623.88" width="196" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-16" target="ia0nuqsjzbO07R-sSjLW-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-16" target="ia0nuqsjzbO07R-sSjLW-9">
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-16" target="bdyUAi5mYZlLlgG6SYgJ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-16" value="Event Listener Registeration&lt;br&gt;Orchestration Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="ia0nuqsjzbO07R-sSjLW-16" value="Event&lt;div&gt;Orchestration Service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="166.5" width="196" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-19" target="ia0nuqsjzbO07R-sSjLW-13">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-19" target="ia0nuqsjzbO07R-sSjLW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-19" value="&lt;div&gt;Event Orchestration Service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-19" target="bdyUAi5mYZlLlgG6SYgJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-19" target="ia0nuqsjzbO07R-sSjLW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ia0nuqsjzbO07R-sSjLW-19" value="&lt;div&gt;Event Listener&amp;nbsp;&lt;/div&gt;&lt;div&gt;Orchestration Service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="494.5" width="196" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-20" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="979" y="102" width="65" height="88" as="geometry" />
+          <mxGeometry x="982" y="100.5" width="65" height="88" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-21" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="978" y="209.75" width="67" height="87.5" as="geometry" />
+          <mxGeometry x="981" y="368" width="67" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-23" target="ia0nuqsjzbO07R-sSjLW-20">
           <mxGeometry relative="1" as="geometry" />
@@ -180,27 +177,48 @@
           <mxGeometry x="688" y="109.5" width="196" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-24" value="Event Listener Registration&lt;br&gt;Storage Broker" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="688" y="218" width="196" height="71" as="geometry" />
+          <mxGeometry x="691" y="376.25" width="196" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-24" target="ia0nuqsjzbO07R-sSjLW-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-26" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="979" y="432.37" width="65" height="88" as="geometry" />
-        </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-27" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="978" y="540.12" width="67" height="87.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-29" target="ia0nuqsjzbO07R-sSjLW-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ia0nuqsjzbO07R-sSjLW-29" value="Event&lt;br&gt;Storage Broker" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="688" y="440.87" width="196" height="71" as="geometry" />
+          <mxGeometry x="981" y="616" width="67" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-30" value="Listener Event&lt;br&gt;Storage Broker" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="688" y="548.37" width="196" height="71" as="geometry" />
+          <mxGeometry x="690" y="624.25" width="196" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ia0nuqsjzbO07R-sSjLW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="ia0nuqsjzbO07R-sSjLW-30" target="ia0nuqsjzbO07R-sSjLW-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" source="bdyUAi5mYZlLlgG6SYgJ-2" target="bdyUAi5mYZlLlgG6SYgJ-5" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-2" value="Listener Caller&lt;br&gt;Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="386" y="495.63" width="196" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-5" value="Listener Caller&lt;br&gt;API Broker" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="691" y="494.5" width="196" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="bdyUAi5mYZlLlgG6SYgJ-8" target="bdyUAi5mYZlLlgG6SYgJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-8" value="Event&lt;br&gt;Service" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="385" y="224.63" width="196" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-9" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="982" y="215" width="65" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="bdyUAi5mYZlLlgG6SYgJ-11" target="bdyUAi5mYZlLlgG6SYgJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-11" value="Event&lt;br&gt;Storage Broker" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="223.5" width="196" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-14" value="API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="954.5" y="486" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bdyUAi5mYZlLlgG6SYgJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="bdyUAi5mYZlLlgG6SYgJ-5" target="bdyUAi5mYZlLlgG6SYgJ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
